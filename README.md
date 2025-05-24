@@ -21,7 +21,6 @@
 - Simple apps for portfolio building
 
 📫 How to reach me:
-- Email: rizall86junior@gmail.com  
 - GitHub: [github.com/RizalJael](https://github.com/RizalJael)
 
 😄 Pronouns: he/him
