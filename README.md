@@ -4,9 +4,9 @@
 
 # Snake Game Animation
 
-![Snake animation](https://raw.githubusercontent.com/username/reponame/dist/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/RizalJael/RizalJael/dist/github-snake.svg)
 
-![Dark mode snake](https://raw.githubusercontent.com/username/reponame/dist/github-snake-dark.svg#gh-dark-mode-only)
+![Dark mode snake](https://raw.githubusercontent.com/RizalJael/RizalJael/dist/github-snake-dark.svg#gh-dark-mode-only)
 
 🎓 Fresh graduate in Informatics Engineering from Universitas Pamulang  
 📱 Mobile Developer | Passionate about Flutter, Laravel & RESTful APIs  
