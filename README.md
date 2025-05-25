@@ -8,6 +8,13 @@
 
 ![Dark mode snake](https://raw.githubusercontent.com/RizalJael/RizalJael/dist/github-snake-dark.svg#gh-dark-mode-only)
 
+## 🐍 My GitHub Contribution Snake
+
+![snake gif](https://github.com/RizalJael/RizalJael/blob/output/github-contribution-grid-snake.svg)
+
+
+![Snake animation](https://raw.githubusercontent.com/RizalJael/RizalJael/dist/github-snake.svg)
+
 🎓 Fresh graduate in Informatics Engineering from Universitas Pamulang  
 📱 Mobile Developer | Passionate about Flutter, Laravel & RESTful APIs  
 
