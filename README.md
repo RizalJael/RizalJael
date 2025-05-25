@@ -1,4 +1,9 @@
-👋 Hi, I’m @RizalJael  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C8FF&center=true&width=500&lines=Hi+there%2C+I'm+Rizal+Jael+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
+
+![snake gif](https://github.com/RizalJael/RizalJael/blob/output/github-contribution-grid-snake.svg)
+
 🎓 Fresh graduate in Informatics Engineering from Universitas Pamulang  
 📱 Mobile Developer | Passionate about Flutter, Laravel & RESTful APIs  
 
