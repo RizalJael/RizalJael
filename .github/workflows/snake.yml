@@ -23,6 +23,6 @@ jobs:
       - name: Push snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
           target_branch: output
           build_dir: dist
